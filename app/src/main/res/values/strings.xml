@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unite5_GelismisKomutlari</string>
+    <string name="btn1">uygulama-1(Selam ver)</string>
+    <string name="btn2">uygulama-2()</string>
+    <string name="btn3">uygulama-3()</string>
+    <string name="btn4">uygulama-4()</string>
+    <string name="btn5">uygulama-5()</string>
+    <string name="btn6">uygulama-6()</string>
+    <string name="btn7">uygulama-7()</string>
+    <string name="btn8">uygulama-8()</string>
+    <string name="btn9">uygulama-9()</string>
+    <string name="btn10">uygulama-10()</string>
+    <string name="btn11">uygulama-11()</string>
+    <string name="btn12">uygulama-12()</string>
+    <string name="btn13">uygulama-13()</string>
+</resources>
