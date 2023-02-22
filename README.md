@@ -1,1 +1,1 @@
-# Geli-mi-_Komutlar-renme-Birimi-5-
+# Gelismis_Komutlar-ogrenme-Birimi-5-
