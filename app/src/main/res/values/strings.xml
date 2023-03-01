@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Unite5_GelismisKomutlari</string>
     <string name="btn1">uygulama-1(Selam ver)</string>
-    <string name="btn2">uygulama-2()</string>
+    <string name="btn2">uygulama-2(Sayilari topla)</string>
     <string name="btn3">uygulama-3()</string>
     <string name="btn4">uygulama-4()</string>
     <string name="btn5">uygulama-5()</string>

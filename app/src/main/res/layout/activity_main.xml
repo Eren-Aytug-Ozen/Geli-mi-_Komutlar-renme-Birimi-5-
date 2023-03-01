@@ -9,10 +9,11 @@
     tools:layout_editor_absoluteY="152dp">
 
     <Button
-        android:id="@+id/btn2"
+        android:id="@+id/uyg_btn2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:onClick="uyg2Activity"
+        android:text="@string/btn2"
         app:layout_constraintBottom_toTopOf="@+id/btn3"
         app:layout_constraintStart_toStartOf="@+id/uyg_btn1"
         app:layout_constraintTop_toBottomOf="@+id/uyg_btn1" />
@@ -23,8 +24,8 @@
         android:layout_height="wrap_content"
         android:text="Button"
         app:layout_constraintBottom_toTopOf="@+id/btn4"
-        app:layout_constraintStart_toStartOf="@+id/btn2"
-        app:layout_constraintTop_toBottomOf="@+id/btn2" />
+        app:layout_constraintStart_toStartOf="@+id/uyg_btn2"
+        app:layout_constraintTop_toBottomOf="@+id/uyg_btn2" />
 
     <Button
         android:id="@+id/uyg_btn1"
@@ -33,7 +34,7 @@
         android:layout_marginStart="143dp"
         android:onClick="uyg1Activity"
         android:text="@string/btn1"
-        app:layout_constraintBottom_toTopOf="@+id/btn2"
+        app:layout_constraintBottom_toTopOf="@+id/uyg_btn2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:ignore="OnClick" />
